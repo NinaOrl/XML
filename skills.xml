@@ -1,0 +1,15 @@
+<skills>
+       <GITBashandGithub>Usage, main commands</GITBashandGithub>
+       <Basictheory>Bug reports, client-server model, types, methods and ways of testing</Basictheory>
+       <HTTP>Methods of requests, codes of answers, structure of requests and answers</HTTP>
+       <JSON&XML>Definitions, structures</JSON&XML>
+       <DEVTools>Google Chrome, Firefox</DEVTools>
+       <VPN>Definition, how to work with</VPN>
+       <iOS&Android>Main features</iOS&Android>
+       <Mobiletesting>Practice</Mobiletesting>
+       <SQL>Create, Delete, Drop, Insert Info, Select, From, Where, Join</SQL>
+       <Postgres>Settings and Usage</Postgres>
+       <Postman>JS, autotests API</Postman>
+       <Charles&Fiddler>Web traffic sniffing</Charles&Fiddler>
+</skills>
+
