@@ -1,1 +1,11 @@
-
+<bugreport>
+  <Telegramname>NinaOrlova21</Telegramname>
+  <BugID>1</BugID>
+  <Title>E-mail button is not working</Title>
+  <Severity>Blocker</Severity>
+  <Priority>1</Priority>
+  <Environment>Samsung A72, Android 11.0</Environment>
+  <STR>Open the APP and press e-mail button</STR>
+  <ER>E-mail window appears</ER>
+  <AR>Button function is not working, unable to send e-mail</AR>
+</bugreport>
