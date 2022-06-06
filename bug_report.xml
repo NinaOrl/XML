@@ -8,4 +8,5 @@
   <STR>Open the APP and press e-mail button</STR>
   <ER>E-mail window appears</ER>
   <AR>Button function is not working, unable to send e-mail</AR>
+  <Attachment>E-mail.png</Attachment>
 </bugreport>
