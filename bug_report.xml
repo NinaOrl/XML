@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bugreport>
+<BugReport>
   <TelegramName>NinaOrlova21</TelegramName>
   <BugID>1</BugID>
   <Title>E-mail button is not working</Title>
@@ -10,4 +10,4 @@
   <ER>E-mail window appears</ER>
   <AR>Button function is not working, unable to send e-mail</AR>
   <Attachment>E-mail.png</Attachment>
-</bugreport>
+</BugReport>
