@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preferences>
-	<Favouritefilm>Sounds of music</Favouritefilm>
-	<Favouritesoapopera>The Queen's Gambit</Favouritesoapopera>
-	<Favouritefood>Georgian cuisine</Favouritefood>
-	<Favouriteseason>Spring</Favouriteseason>
-	<Countrytovisit>Portugal</Countrytovisit>
+	<FavouriteFilm>Sounds of music</FavouriteFilm>
+	<FavouriteSoapOpera>The Queen's Gambit</FavouriteSoapOpera>
+	<FavouriteFood>Georgian cuisine</FavouriteFood>
+	<FavouriteSeason>Spring</FavouriteSeason>
+	<CountryToVisit>Portugal</CountryToVisit>
 </preferences>

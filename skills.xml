@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
        <GITBashandGithub>Usage, main commands</GITBashandGithub>
-       <Basictheory>Bug reports, client-server model, types, methods and ways of testing</Basictheory>
+       <BasicTheory>Bug reports, client-server model, types, methods and ways of testing</BasicTheory>
        <HTTP>Methods of requests, codes of answers, structure of requests and answers</HTTP>
        <JSON&XML>Definitions, structures</JSON&XML>
        <DEVTools>Google Chrome, Firefox</DEVTools>
        <VPN>Definition, how to work with</VPN>
        <iOS&Android>Main features</iOS&Android>
-       <Mobiletesting>Practice</Mobiletesting>
+       <MobileTesting>Practice</MobileTesting>
        <SQL>Create, Delete, Drop, Insert Info, Select, From, Where, Join</SQL>
        <Postgres>Settings and Usage</Postgres>
        <Postman>JS, autotests API</Postman>
