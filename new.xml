@@ -2,6 +2,6 @@
 	<Name>Nina</Name>
 	<Surname>Orlova</Surname>
 	<Age>33</Age>
-	<Numberofpets>0</Numberofpets>
-	<Futuresalary>1500 EUR</Futuresalary>
+	<NumberOfPets>0</NumberOfPets>
+	<FutureSalary>1500 EUR</FutureSalary>
 </person>
