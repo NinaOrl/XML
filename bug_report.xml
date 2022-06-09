@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bugreport>
-  <Telegramname>NinaOrlova21</Telegramname>
+  <TelegramName>NinaOrlova21</TelegramName>
   <BugID>1</BugID>
   <Title>E-mail button is not working</Title>
   <Severity>Blocker</Severity>
